@@ -1,1 +1,3 @@
 # SECRET_KEY = 'django-insecure-@ov7kbz7-pefyqz=-ufq%-8ls*o6mlig9=mga5ks*zzqcdp!2r'
+# password: steveb78
+# Heroku API: b8a8f86c-970f-4df2-9978-cefaa8f1f5a0
